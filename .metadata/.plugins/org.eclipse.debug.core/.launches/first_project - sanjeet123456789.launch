@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.googlecode.goclipse.launch.goLaunchType">
+    <stringAttribute key="buildCommand" value=""/>
+    <booleanAttribute key="buildCommand_UseDefault" value="false"/>
+    <stringAttribute key="buildTarget" value="build:sanjeet123456789"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/first_project"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <booleanAttribute key="programPath_UseDefault" value="true"/>
+    <stringAttribute key="project" value="first_project"/>
+</launchConfiguration>
